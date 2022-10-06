@@ -35,7 +35,7 @@ public class Staff {
         ((Commissioned) staffList[6]).addHours(35);
         ((Commissioned) staffList[6]).addSales(400);
         ((Commissioned) staffList[7]).addHours(40);
-        ((Commissioned) staffList[7]).addHours(950);
+        ((Commissioned) staffList[7]).addSales(950);
         
         
     }
